@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![progman246 Logo file](https://images-na.ssl-images-amazon.com/images/I/71+mDoHG4mL.png)
